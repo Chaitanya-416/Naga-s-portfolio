@@ -1,2 +1,1 @@
-# Naga-s-portfolio
-I'm a b.tech student who's interested in cybersecurity
+# Naga-s-portfolioB.Tech CSE Student 🚀 | Building real-world projects with Python, Web & AI | Exploring Cybersecurity | Hackathon Builder 💻
